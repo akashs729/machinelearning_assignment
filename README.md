@@ -11,6 +11,7 @@ Specific Boundary
 The specific boundary S, with respect to hypothesis space H and training
 data D, is the set of minimally general (i.e., maximally specific) members of H
 consistent with D.
+
 S ≡ {s ∈ H|Consistent(s, D) ^ (-∃g' ∈ H)[(s' >gs') A Consistent(s' ^ D)]}
 
 
